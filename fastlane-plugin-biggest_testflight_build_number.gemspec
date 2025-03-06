@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = 'sukeroku.gg@gmail.com'
 
   spec.summary       = 'Fetches biggest build number from TestFlight'
-  # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-biggest_testflight_build_number"
+  spec.homepage      = "https://github.com/robotan0921/fastlane-plugin-biggest_testflight_build_number"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
